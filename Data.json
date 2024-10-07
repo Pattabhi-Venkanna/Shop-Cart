@@ -1,0 +1,69 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "iPhone 16",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 5490,
+        "offer":999,
+        "thumbnail": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-9inch-naturaltitanium?wid=5120&hei=2880&fmt=webp&qlt=70&.v=eUdsd0dIb3VUOXdtWkY0VFUwVE8vbEdkZHNlSjBQRklnaFB2d3I5MW94NkkwYXJHRXdBd0xZTDNUS0M2eUNlY0pOZTBYalh5Vk90cEc1K2wwRzFGejRMeXJHUnUva2huMjl4akFHOXNwVjA0YXFmK3VWSWZuRE9oVEFyUFR0T2h6UkM0eXdTUkFqNnFqYk5ZcGUzV2tB&traceId=1",
+        "quantity" : 1
+      },
+      {
+        "id": 2,
+        "title": "iPhone X",
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "price": 9899,
+        "offer":899,
+        "thumbnail": "https://cellbuddy.in/buddy/wp-content/uploads/2022/09/X-silver-2.png",
+        "quantity" : 1
+      },
+      {
+        "id": 3,
+        "title": "Samsung Universe 9",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price": 7249,
+        "offer":869,
+        "category": "smartphones",
+        "thumbnail": "https://shop-vue.yazan-khayal.com/public/upload/shops/20220902/1662149749.png",
+        "quantity" : 1
+      },
+      {
+        "id": 4,
+        "title": "OPPOF19",
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "price": 2990,
+        "offer":456,
+        "thumbnail": "https://m.media-amazon.com/images/I/41VbEQTtOnL.jpg",
+        "quantity" : 1
+      },
+      {
+        "id": 5,
+        "title": "Huawei P30",
+        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 4999,
+        "offer":355,
+        "thumbnail": "https://m.media-amazon.com/images/I/61ZzcfP4ueL.jpg",
+        "quantity" : 1
+      },
+      {
+        "id": 6,
+        "title": "MacBook Pro",
+        "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+        "price": 91749,
+        "offer":2799,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr_l88_IYweM0NRYSTegwLT2AMQx5YNfEUSg&s",
+        "quantity" : 1
+      },
+      {
+        "id": 7,
+        "title": "Samsung Galaxy Book",
+        "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+        "price": 5499,
+        "offer":349,
+        "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/in/np750xgk-kg3in/gallery/in-galaxy-book4-156-inch-np750xgka-500076-np750xgk-kg3in-540424104?$720_576_JPG$",
+        "quantity" : 1
+      }
+    ]
+  }
+  
